@@ -1,0 +1,8 @@
+name: SerosEmotePlugin
+main: me.sero.SerosEmotePlugin.SerosEmotePlugin
+version: 1.0
+author: sero
+commands:
+  m:
+    description: Write your emotion
+    usage: /<command> emotion
