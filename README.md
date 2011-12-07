@@ -7,11 +7,3 @@ Dieses kleine Plugin ist dafür da, Emotes anzuzeigen.
 /m EMOTE
 
 Dabei kann man Bukkit Standard Farben benutzen.
-<<<<<<< HEAD
-materschief
-=======
-
-Seromania
->>>>>>> upstream/master
------------
-Hat geklappt
